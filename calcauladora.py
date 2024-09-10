@@ -8,4 +8,4 @@ def divisao(x,y):
     if(y == 0):
         return "Divisao por 0 ERROR"
     else:
-        return "O resultado da multiplicacao é igual à" + (x/y)
+        return "O resultado da divisao é igual à" + (x/y)
